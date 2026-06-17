@@ -47,7 +47,7 @@ public class CarRentalSystem {
 	public void menu() {
 		Scanner sc=new Scanner(System.in);
 		while(true) {
-			System.out.println("\n================== Welecome to Car Rental System ==================\n");
+			System.out.println("\n================ Welecome to Car Rental System ==================\n");
 			System.out.println("\t1. Rent a car");
 			System.out.println("\t2. Return a car");
 			System.out.println("\t3. Exit");
