@@ -15,6 +15,7 @@ public class Rental {
 	public Customer getCustomer() {
 		return customer;
 	}
+	//
 	public int getDays() {
 		return days;
 	}
