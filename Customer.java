@@ -1,4 +1,4 @@
-
+//Class Containing customer fields
 public class Customer {
 	private String customerId;
 	private String name;
